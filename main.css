@@ -408,7 +408,7 @@ header .fa-chevron-down {
 
 .contact {
   position: relative;
-  background-image: url(../img/moscow-g260af4985_1920.jpg);
+  background-image: url(./img/moscow-g260af4985_1920.jpg);
   background-position: bottom;
   background-attachment: fixed;
   background-size: cover;
@@ -491,7 +491,7 @@ header .fa-chevron-down {
     height: 82px;
   }
   .aboutus-hero {
-    background-image: url("../img/purse-ge75f8d302_1920.jpg");
+    background-image: url(./img/purse-ge75f8d302_1920.jpg);
   }
   .prices .price-info {
     font-size: 18px;
@@ -500,7 +500,7 @@ header .fa-chevron-down {
 
 @media (min-width: 1200px) {
   header .hero-img {
-    background-image: url(../img/laptop-gdfe3d7daa_1920.jpg);
+    background-image: url(./img/laptop-gdfe3d7daa_1920.jpg);
   }
 }
 /*# sourceMappingURL=main.css.map */
